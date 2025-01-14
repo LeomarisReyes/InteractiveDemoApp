@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="president_searchbar_title">Búsqueda de presidentes</string>
+    <string name="president_searchbar_placeholder">Escribe el nombre a buscar</string>
+    <string name="colombian_presidents_title">Presidentes colombianos</string>
+    <string name="president_image">Imagen de presidente</string>
+    <string name="start_period_date">Inicio período: </string>
+    <string name="end_period_date">Fin período:     </string>
+    <string name="presidential_dates">Período Presidencial</string>
+    <string name="presidential_description">Descripción</string>
+    <string name="profile_picture_description">Profile Picture</string>
+</resources>

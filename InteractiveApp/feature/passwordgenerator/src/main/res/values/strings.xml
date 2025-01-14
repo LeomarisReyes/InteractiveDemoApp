@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">presentation</string>
+    <string name="password_generator_title">Password Generator</string>
+    <string name="password_generator_description">Generate automatic passwords that adapt to your chosen configuration options.</string>
+    <string name="password_settings">PASSWORD SETTINGS</string>
+    <string name="phrease_settings">TYPE YOUR PHRASE HERE</string>
+    <string name="include_uppercase">Include uppercase letters?</string>
+    <string name="include_numbers">Include numbers?</string>
+    <string name="include_symbols">Include symbols?</string>
+    <string name="generate_password">Generate Password</string>
+    <string name="password_image">Password image</string>
+    <string name="password_size">Password size</string>
+    <string name="password_size_placeholder">Use the slider to choose a different password size.</string>
+    <string name="your_generated_password">YOUR GENERATED PASSWORD IS</string>
+    <string name="copy_to_clipboard">Copy to clipboard</string>
+</resources>

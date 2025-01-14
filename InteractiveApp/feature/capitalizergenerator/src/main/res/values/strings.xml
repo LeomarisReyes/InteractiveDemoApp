@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="capitalized_description">Capitalize phrase</string>
+    <string name="capitalizer_title">Capitalizer generator</string>
+    <string name="capitalizer_description">Enter a phrase and the text will be capitalized when you click the button.</string>
+    <string name="phrase_settings">TYPE YOUR PHRASE HERE</string>
+    <string name="capitalizer_image">Capitalizer image</string>
+    <string name="you_capitalizer_phrase_descriptiln">YOUR CAPITALIZE PHRASE IS:</string>
+    <string name="capitalizer_input_placeholder">Write a phrase to capitalize</string>
+    <string name="copy_to_clipboard_description">Copy to clipboard</string>
+ </resources>

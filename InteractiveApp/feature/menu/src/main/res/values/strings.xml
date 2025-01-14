@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_description">Welcome to the menu</string>
+    <string name="go_to_capitalizer_generator_description">Capitalizer generator</string>
+    <string name="go_to_password_generator_description">Passsword generator</string>
+    <string name="go_to_presidents_list_description">Colombian presidents API</string>
+</resources>
